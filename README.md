@@ -111,5 +111,3 @@ MIT
 ---
 
 Developed by [Caglar Ergul](https://github.com/caglaroptimum7) at [Optimum7](https://optimum7.com)
-
-Copyright &copy; 2026 [Caglar Ergul](https://github.com/caglaroptimum7) / [Optimum7](https://optimum7.com). All rights reserved.
