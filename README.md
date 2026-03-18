@@ -1,5 +1,7 @@
 # Liquid Animated Background Configurator
 
+[![Deploy to GitHub Pages](https://github.com/caglaroptimum7/liquid-animated-background-configurator/actions/workflows/deploy.yml/badge.svg)](https://github.com/caglaroptimum7/liquid-animated-background-configurator/actions/workflows/deploy.yml)
+
 A visual configurator tool for creating beautiful, animated liquid/blob gradient backgrounds. Design your background in real-time, then export the config to use in your React or Next.js project via the [`liquid-animated-background`](https://www.npmjs.com/package/liquid-animated-background) npm package.
 
 ## Demo
